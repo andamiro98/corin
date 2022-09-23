@@ -1,4 +1,4 @@
-<h1>JAVASCRIPT 기초문법</h1>
+<h1>승재의 JAVASCRIPT 기초문법 메모</h1>
 
 <h3><변수 선원 키워드></h3>
 
@@ -128,3 +128,40 @@
        console.log(result);
 
         -> expected output: Array ["exuberant", "destruction", "present"]
+    
+    
+<h3>continue_반복문</h3>
+    
+    조건에 상관 없이 해당 명령문을 중단하고 바로 다음 단계인 증감문부터 실행
+    
+    for (let i = 0; i < 5; i++) {
+	if (i === 2) continue;
+
+	console.log(i);
+    }
+
+    // Print: 0
+    // 1
+    // 3
+    // 4
+                          
+<h3>함수와 반복문</h3>
+    
+    정답
+    
+    ![chrome_7xLzsMIK8i](https://user-images.githubusercontent.com/113837393/191918081-a50ccbad-8119-4c46-8757-b9d43b449cd1.png)
+
+    
+    나의 풀이
+    
+    ![Code_cLbz7kChO9](https://user-images.githubusercontent.com/113837393/191918293-2972927c-2873-4fa1-8797-b0ec36a9bb64.png)
+
+    
+
+    
+    
+        
+
+
+
+        
