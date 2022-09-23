@@ -146,15 +146,18 @@
     // 4
                           
 <h3>함수와 반복문</h3>
-    
+    	
     정답
+	
+![chrome_7xLzsMIK8i](https://user-images.githubusercontent.com/113837393/191918678-dc87bb70-9ca5-468b-b704-34227b62acfa.png)
     
-    ![chrome_7xLzsMIK8i](https://user-images.githubusercontent.com/113837393/191918081-a50ccbad-8119-4c46-8757-b9d43b449cd1.png)
 
     
     나의 풀이
-    
-    ![Code_cLbz7kChO9](https://user-images.githubusercontent.com/113837393/191918293-2972927c-2873-4fa1-8797-b0ec36a9bb64.png)
+	
+![Code_qlpmpoBEwo](https://user-images.githubusercontent.com/113837393/191918897-3f922b19-d01e-44aa-9d7c-bb1e9320e37b.png)
+   
+
 
     
 
