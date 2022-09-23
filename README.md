@@ -20,6 +20,8 @@
     number 자료형 -> 숫자
     string 자료형 -> 문자
     boolean 자료형 -> true, false
+   ![chrome_TwLooDD3BL](https://user-images.githubusercontent.com/113837393/191906601-db5f2e57-d05e-451b-a9fd-8f7cea47bceb.png)
+
 
 
     conset a = 1
@@ -67,9 +69,10 @@
 
     undefined 와 null -> 값이 없다
 
-    undefined -> 정의하지 않은 변수, 속성
+    undefined -> 정의하지 않은 변수, 속성, 변수 선언시 값을 할당 X
     null -> null이라는 값이 없음을 의미하는 값을 지정한 것
-
+    
+    선언되지 않은 변수를 참조할 경우 : Reference error 발생
 
 <h3>Not a Number</h3>
 
@@ -117,4 +120,11 @@
     자바스크립트는 자동 형변환 기능을 가졌기 때문에 버그를 만든다.
     ===, !== 사용하기
 
+<h3>Array.prototype.filter()</h3>
+    
+        const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
+        const result = words.filter(word => word.length > 6);
 
+       console.log(result);
+
+        -> expected output: Array ["exuberant", "destruction", "present"]
