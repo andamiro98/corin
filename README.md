@@ -1,2 +1,2 @@
 react test 1
-https://corin-ggrf.vercel.app/
+https://corin.vercel.app/
